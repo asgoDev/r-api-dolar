@@ -1,0 +1,17 @@
+
+.green {
+  fill: var(--green);
+}
+
+.yellow {
+  fill: var(--mustard);
+  transform: rotate(180deg);
+}
+
+.red {
+  transform: rotate(180deg);
+  fill: var(--red);
+}
+.blue {
+  fill: var(--light-blue);
+}

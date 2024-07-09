@@ -1,0 +1,23 @@
+.app-header {
+ padding: 1rem;
+}
+
+.app-header__logo {
+  height: 7rem;
+  font-size: 3.6rem;
+  display: flex;
+  justify-content: center;
+}
+
+.app-header__logo > span {
+  padding: 0 1rem;
+  font-weight: 500;
+  line-height: 3.6rem;
+}
+
+.app-header__logo--borded {
+  border-right: 0.8rem solid var(--white);
+}
+.app-header__logo--bottom {
+  align-self: flex-end;
+}

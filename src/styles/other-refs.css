@@ -1,0 +1,24 @@
+.other-refs {
+  align-self: stretch;
+}
+
+.other-refs__title {
+  font-size: 2.4rem;
+  margin-bottom: 2rem;
+}
+
+.other-refs__list {
+  list-style: none;
+  text-align: left;
+  font-size: 2rem;
+}
+
+.other-refs__item {
+  margin-bottom: .3rem;
+}
+.other-refs__item-title {
+  font-weight: 600;
+}
+.other-refs__item-symbol {
+  font-size: 1.3rem;
+}

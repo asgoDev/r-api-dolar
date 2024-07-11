@@ -8,6 +8,8 @@
   background: var(--white);
   height: 60vw;
   width: 60vw;
+  max-width: 320px;
+  max-height: 320px;
   border-radius: 50%;
   box-shadow: -0.3rem 0.7rem 0px var(--gray);
 
